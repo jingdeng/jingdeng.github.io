@@ -16,7 +16,7 @@ baseurl: ""
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+# google-tracking-id: "UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Deng, Jing"
+title: "{ Deng, Jing }"
+description: "Blog and website of Deng, Jing, blogging mainly for tech. Opinions expressed are mine."
+keywords: "deng, jing, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/baymax.png"
 
 ##############################
 # Color the browser elements #
@@ -94,13 +94,13 @@ fb-share: True
 twitter-share: True
 linkedin-share: True
 reddit-share: True
-google-plus-share: True
+# google-plus-share: True
 tumblr-share: True
 pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "jingdeng"
 
 syntax-highlight: True
 
@@ -147,7 +147,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/jingdeng"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
