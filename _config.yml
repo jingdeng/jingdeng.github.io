@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/baymax.png"
+me-img: "/img/avatar.png"
 
 ##############################
 # Color the browser elements #
@@ -90,6 +90,15 @@ post-preview-words: 96
 paginate: 5
 
 email-share: True
+fb-share: False
+twitter-share: False
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "jingdeng"
 
@@ -133,8 +142,14 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
+#  - title: "facebook"
+#    url: "https://facebook.com/"
+#  - title: "twitter"
+#    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/jingdeng"
+    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
