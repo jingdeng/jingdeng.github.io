@@ -103,7 +103,7 @@ events:
   - image: "/img/timeline/java.png"
     date: "January 2013 - Today"
     description: "Java developer, Shanghai"
-  - image: "/img/timeline/nchu.jpg"
+  - image: "/img/timeline/nchu.png"
     date: "September 2009 - July 2013"
     description: "Software Engineering, Nanchang Hangkong University"
 
