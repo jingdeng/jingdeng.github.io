@@ -150,6 +150,8 @@ social:
     url: "https://github.com/jingdeng"
   - title: "weibo"
     url: "http://weibo.com/u/1719688147"
+  - title: "qq"
+    url: "tencent://message/?uin=245224987&Site=jingdeng.github.io&Menu=yes"
 #  - title: "bitcoin"
 #    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
